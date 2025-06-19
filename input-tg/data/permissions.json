@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "-111": ["help", "diagnostic_tg", "info", "diag_tg", "diag_ind_cloud_proxy", "diag_ind_ph_proxy", "reboot_server"],
+    "-222": ["help", "diag_tg", "diag_ind_cloud_proxy", "diag_ind_ph_proxy"],
+    "-333": ["help", "reboot_server"]
+  },
+  "users": {
+    "111": ["help", "diag_ind_cloud_proxy", "diag_ind_ph_proxy", "reboot_server", "admin", "diag_tg"]
+  }
+}

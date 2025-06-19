@@ -1,0 +1,28 @@
+{
+  "proxy-abc-01.local": {
+    "instance_id": "111",
+    "proxmox_url": "ap-northeast-1",
+    "node_id": "111",
+    "instance_type": "proxmox"
+  },
+  "proxy-abc-02.local": {
+    "instance_id": "111",
+    "proxmox_url": "ap-northeast-1",
+    "node_id": "111",
+    "instance_type": "proxmox"
+  },
+  "proxy-abc-03.local": {
+    "instance_id": "111",
+    "proxmox_url": "ap-south-1",
+    "node_id": "111",
+    "instance_type": "proxmox"
+  },
+  "test.local": {
+    "instance_id": "111",
+    "vmware_url": "ap-northeast-1",
+    "node_id": "111",
+    "instance_type": "vmware"
+  }
+}
+
+
